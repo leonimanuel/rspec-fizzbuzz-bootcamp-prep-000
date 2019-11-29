@@ -2,16 +2,16 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(num)
   if (num % 3 = 0 && num % 5 = 0)
-    "FizzBuzz" 
+    "FizzBuzz"
   end
   elsif num % 3 = 0
-    "Fizz" 
+    "Fizz"
   end
   elsif num % 5 = 0
-    "Buzz" 
+    "Buzz"
   end
   elsif (num % 3 != 0 && num % 5 != 0)
-    "FizzBuzz" 
+    "FizzBuzz"
   end
-  
+
 end
